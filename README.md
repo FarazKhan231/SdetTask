@@ -10,7 +10,7 @@ Installation:
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/playwright-tests.git
+git clone https://github.com/FarazKhan231/SdetTask.git
 
 2. Install dependencies:
 
